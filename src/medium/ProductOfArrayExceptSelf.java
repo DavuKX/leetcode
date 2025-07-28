@@ -1,8 +1,8 @@
-package problems;
+package medium;
 
 import java.util.Arrays;
 
-public class ProductOfArray {
+public class ProductOfArrayExceptSelf {
     public static void main(String[] args) {
         test();
     }
@@ -11,7 +11,7 @@ public class ProductOfArray {
         int product = 1;
         int zeros = 0;
 
-        for (int num: nums) {
+        for (int num : nums) {
             if (num != 0) {
                 product *= num;
             } else {
@@ -26,11 +26,11 @@ public class ProductOfArray {
         int[] result = new int[nums.length];
 
         for (int i = 0; i < nums.length; i++) {
-           if (zeros > 0) {
-               result[i] = nums[i] == 0 ? product : 0;
-           } else {
-               result[i] = product / nums[i];
-           }
+            if (zeros > 0) {
+                result[i] = nums[i] == 0 ? product : 0;
+            } else {
+                result[i] = product / nums[i];
+            }
         }
 
         return result;

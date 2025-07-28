@@ -1,10 +1,10 @@
-package problems;
+package medium;
 
 
 import org.junit.Assert;
 import org.junit.Test;
 
-public class SudokuValidatorTest {
+public class ValidSudokuTest {
 
     @Test
     public void testValidSudoku() {
