@@ -56,6 +56,7 @@ You can run tests in one of the following ways:
 * [x] Two Sum
 * [x] Valid Anagram
 * [x] Contains Duplicate
+* [x] Valid Palindrome
 
 ### Medium
 
