@@ -65,6 +65,7 @@ You can run tests in one of the following ways:
 * [x] Top K Frequent
 * [x] Valid Sudoku
 * [x] Two Sum II - Input Array is Sorted
+* [x] 3Sum 
 
 ### Hard
 
