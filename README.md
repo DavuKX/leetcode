@@ -66,6 +66,7 @@ You can run tests in one of the following ways:
 * [x] Valid Sudoku
 * [x] Two Sum II - Input Array is Sorted
 * [x] 3Sum 
+* [x] Container With Most Water
 
 ### Hard
 
