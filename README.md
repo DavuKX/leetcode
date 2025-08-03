@@ -57,6 +57,7 @@ You can run tests in one of the following ways:
 * [x] Valid Anagram
 * [x] Contains Duplicate
 * [x] Valid Palindrome
+* [x] Valid Parentheses
 
 ### Medium
 
