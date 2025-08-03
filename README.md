@@ -71,6 +71,7 @@ You can run tests in one of the following ways:
 ### Hard
 
 * [x] Longest Consecutive
+* [x] Trapping Rain Water
 
 ---
 
