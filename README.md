@@ -69,6 +69,7 @@ You can run tests in one of the following ways:
 * [x] 3Sum 
 * [x] Container With Most Water
 * [x] Min Stack
+* [x] Evaluate Reverse Polish Notation
 
 ### Hard
 
