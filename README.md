@@ -58,6 +58,14 @@ You can run tests in one of the following ways:
 * [x] Contains Duplicate
 * [x] Valid Palindrome
 * [x] Valid Parentheses
+* [x] Can Place Flowers
+* [x] Greatest Number of Candies
+* [x] Is Subsequence
+* [x] Merge Strings Alternately
+* [x] Move Zeroes
+* [x] Reverse Vowels
+* [x] Shift Array
+* [x] Counter
 
 ### Medium
 
